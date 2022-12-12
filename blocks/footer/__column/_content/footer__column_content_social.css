@@ -1,0 +1,9 @@
+.footer__column_content_social {
+  padding: 0;
+  margin: 0;
+  padding-left: 0;
+  text-align: left;
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+}

@@ -1,0 +1,8 @@
+.table_theme_dark {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+}

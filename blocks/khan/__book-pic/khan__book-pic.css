@@ -1,0 +1,9 @@
+.khan__book-pic {
+  width: 608px;
+  height: 620px;
+  background-image: url(../../../images/khan-book.jpg);
+  position: inherit;
+  object-fit: cover;
+  object-position: top;
+  background-repeat: no-repeat;
+}

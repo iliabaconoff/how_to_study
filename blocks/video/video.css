@@ -1,0 +1,7 @@
+.video {
+  width: 100%;
+  display: flex;
+  margin: auto;
+  flex-flow: column;
+  margin-top: 100px;
+}
